@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao Meu GitHub! 👋
+# Bem-vindo(a)! 👋
 
 Olá! Sou um desenvolvedor fullstack que está sempre buscando por evolução e aprendizado. Aqui, você encontrará uma variedade de projetos que refletem minha jornada de aprendizado e minha paixão por explorar novas tecnologias.
 
